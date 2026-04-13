@@ -1,1 +1,1 @@
-Notes for UW-Madison linguistics courses to provide additional explanations or examples for certain classes.
+Notes for UW-Madison linguistics courses to provide additional explanations or examples for certain classes. One of the courses included is Syntax 330 which covers English syntactical concepts and how to draw syntax trees.
