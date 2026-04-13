@@ -6,7 +6,7 @@
 
 - Because "Jacquelyn's" is a possessor/anaphor, it is in the **specifier** position of “new book on the election.”<br>
 
-- Compare ``her readers'' with ``tremendously'' in the VP: ``her readers'' is a **complement** while ``tremendously'' is an **adjunct**. By the tree, this is because the NP ``her readers'' is the sister node to the head V while the AdvP ``tremendously'' is the sister node to V'. Intuitively, adjuncts add additional, usually optional details to modify a head while complements provide more intrinsic information.<br>
+- Compare "her readers" with "tremendously" in the VP: "her readers" is a **complement** while "tremendously" is an **adjunct**. By the tree, this is because the NP "her readers" is the sister node to the head V while the AdvP "tremendously" is the sister node to V'. Intuitively, adjuncts add additional, usually optional details to modify a head while complements provide more intrinsic information.<br>
 
 - By the end of the course, the tree should look as it does below:
 
