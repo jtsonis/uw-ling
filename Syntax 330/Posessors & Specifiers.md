@@ -9,4 +9,4 @@ To list multiple possessors, the NP-structure is on the left while the DP-struct
 ![NP-structure](Images/tree5.png)
 ![DP-structure](Images/tree6.png)
 
-*There is a reason why it's done, and it's because of semantics. Possessors require a person or thing that possesses. The phrase "Bill's cat" implies not only that there is a cat, but that there is a Bill who possesses a cat. Similarly "That cat" has one DP---the cat---while "Their cat" has two DPs---they and the cat.
+*There is a reason why it's done, and it's because of semantics. Possessors require a person or thing that possesses. The phrase "Bill's cat" implies not only that there is a cat, but that there is a Bill who possesses a cat. Similarly "That cat" has one DP&#151the cat&#151while "Their cat" has two DPs&#151they and the cat.
