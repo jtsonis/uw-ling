@@ -3,3 +3,5 @@ Possessors go in the **specifier**. In Syntax 330, treat this as a dogmatic rule
 In the image below, compare the DP "The" with the DPs "Their" and "Bob's": 
 
 ![tree](Images/tree4.jpg)
+
+Here is an example using the NP-structure to nest multiple possessors, below which is the DP equivalent:
