@@ -10,4 +10,4 @@
 
 - By the end of the course, the tree should look as it does below:
 
-![Complicated Tree](Images/tree2.png)
+<img src="Images/tree2.png" alt="tree" width="50%">
