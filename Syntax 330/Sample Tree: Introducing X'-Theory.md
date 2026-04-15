@@ -10,4 +10,4 @@
 
 - By the end of the course, the tree should look as it does below:
 
-<img src="Images/tree2.png" alt="tree" width="50%">
+<img src="Images/tree2.png" alt="tree" width="67%">
