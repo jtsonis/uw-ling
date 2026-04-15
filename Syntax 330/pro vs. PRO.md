@@ -1,1 +1,1 @@
-Uppercase "PRO" and lowercase "pro" both serve the same syntactic role: representing a phonologically empty pronoun. Lowercase "pro" is used to represent the phonologically empty
+Uppercase "PRO" and lowercase "pro" both serve the same syntactic role: representing a phonologically empty pronoun. Lowercase "pro" is used to represent the phonologically empty pronoun that serves as the subject of a <ins>finite</ins> clause, dropped for convenience or because there's no word for it. English does not
