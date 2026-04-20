@@ -8,6 +8,6 @@
 
 - Compare "her readers" with "tremendously" in the VP: "her readers" is a **complement** while "tremendously" is an **adjunct**. By the tree, this is because the NP "her readers" is the sister node to the head V while the AdvP "tremendously" is the sister node to V'. Intuitively, adjuncts add additional, usually optional details to modify a head while complements provide more intrinsic information.<br>
 
-- By the end of the course, the tree should look as it does below:
+- By the end of the course, the tree should look as it does below: EDIT THE PP "on the election" TO BE A COMPLEMENT FOR THE BOOK!!!!!!
 
 <img src="Images/tree2.png" alt="tree" width="67%">
