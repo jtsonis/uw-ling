@@ -7,4 +7,4 @@ English does use PRO. PRO is the phonologically empty pronoun that serves as the
 
 Consider the sentences "He is likely to dine." and "He is ready to dine." For the first sentence, the adjective `likely' only gives a theta-role to one argument in the object (after it) and not the subject (before it). This means that in order for "He," which is an argument, to get a theta-role, it has to have gotten it from somewhere else. Therefore we say it got the theta-role from the verb "to dine," meaning it used to be there and gets a trace.  
 
-For the latter sentence, the adjective `ready' gives a theta-role to the object and subject, so no movement of "He" is required. Meanwhile, the spec of TP in the CP "to dine" is empty, so by the Extended Projection Principle, it needs a subject. Therefore we add PRO as the phonologically empty subject to that TP.
+For the latter sentence, the adjective `ready' gives a theta-role to the object and subject, so no movement of "He" is required. Meanwhile, the spec of TP in the CP "to dine" is empty, so in order for the verb to have a subject theta-role, we add PRO as the phonologically empty subject to that TP.
