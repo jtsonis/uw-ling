@@ -11,4 +11,4 @@ For the latter sentence, the adjective `ready' gives a θ-role to the object and
 
 To be very brief, verbs (or in this case adjectives) with subject θ-roles use PRO, otherwise use trace.
 
-<img src="Images/tree8.png" alt="trees" width="50%">
+<img src="Images/tree8.jpg" alt="trees" width="50%">
