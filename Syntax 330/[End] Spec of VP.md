@@ -3,4 +3,4 @@ At the very end of Syntax 330, we discussed putting a trace in the specifier of 
 As a note, the final VP in the tree below does not have a trace in its Spec. Don't worry about it too much, just focus on the VP's which are the most proximate to the subject DP.
 
 <img src="Images/tree9.png" alt="tree" width="50%">
-<img scr="Images/tree10.png" alt="tree" width=67%">
+<img scr="Images/tree10.png" alt="tree" width="67%">
