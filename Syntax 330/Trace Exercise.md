@@ -1,6 +1,6 @@
 My professor posted a syntax tree and said, "It includes every type of trace in nearly all contexts introduced throughout the semester. It might be a small exercise to use your own ways to mark out which trace is for which moved constituent. Color-coding, indexing, whatever." I will not give my answers, but I will give some leading questions below as hints.
 
-* There is a trace next to "investigation." It is an **investigation of what?**
+* There is a trace next to "investigation." **It is an investigation of what?**
 * **Test**
 
 <img src="Images/treeimagebig.png" alt="tree" width="100%">
