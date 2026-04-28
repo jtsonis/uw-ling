@@ -4,6 +4,7 @@ My professor posted a syntax tree and said, "It includes every type of trace in 
 * The verb "misled" demonstrates passive voice. **Why does passive voice need a trace?** In this sentence, **who was misled?**
 * In the leftmost VP, **what decided that the detectives...?**
 * The leftmost Asp' has a trace where a verb used to be. **Where did that verb go?** _[It originally went to T']_
+* Spoiler: the rightmost trace is "In which accident's investigation." The Minimal Link Condition **tells us what** about the phrase's traces?
 
 <img src="Images/treeimagebig.png" alt="tree" width="100%">
 
